@@ -1,0 +1,459 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"echo"
+			],
+			[
+				"fi",
+				"Tanbalim-Tanbe10_ft_Justina"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"f",
+				"feed_s"
+			],
+			[
+				"id",
+				"idrutube"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"stro",
+				"strong"
+			],
+			[
+				"v",
+				"VALUES"
+			],
+			[
+				"rut",
+				"rutube_link"
+			],
+			[
+				"ca",
+				"channel_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/asgoone/dev/github-asgoone/go-tg-bot/config.json",
+			"settings":
+			{
+				"buffer_size": 72,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/asgoone/dev/github-asgoone/go-tg-bot/go-tg-bot.go",
+			"settings":
+			{
+				"buffer_size": 1026,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 149.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"go",
+				"Snippet: go func()"
+			],
+			[
+				"hr",
+				"HTMLPrettify"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"jso",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"JSO",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"J",
+				"Pretty JSON: JSON query with ./jq"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/asgoone/dev/github-asgoone/go-tg-bot"
+	],
+	"file_history":
+	[
+		"/Users/asgoone/dev/go-tg-bot/config.json",
+		"/Users/asgoone/dev/go-tg-bot/go-tg-bot.go",
+		"/Users/asgoone/Downloads/app_ios.txt",
+		"/Users/asgoone/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/E471DD24-CA69-4C2E-8694-6E1936029256/invoices_data_08-05-2018 (1).xml",
+		"/Users/asgoone/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/D0620229-2EFB-4247-9C80-F487D45D9103/invoices_data_08-05-2018 (2).xml",
+		"/Users/asgoone/Desktop/d.sushkevich@superjob.ru",
+		"/Users/asgoone/Desktop/cesh bit",
+		"/Users/asgoone/Desktop/artur_sql_.sql",
+		"/Users/asgoone/Downloads/ivi.sql",
+		"/Users/asgoone/dev/data/ctc/persons/3/info.json",
+		"/Users/asgoone/kinopoisk/ctc/movies/5/urls.json",
+		"/Users/asgoone/Dropbox/Private/text/licnoe/passwordhz.txt",
+		"/Users/asgoone/tefilk/portal/framework/i18n/data/es_ec.php",
+		"/Users/asgoone/Desktop/tefi111",
+		"/Users/asgoone/Dropbox/Разработка/tefi_dev_commits_2016.txt",
+		"/Users/asgoone/Dropbox/molod.adp",
+		"/Users/asgoone/tefilk/portal/application/lk/vendors/swiftmailer/notes/rfc/rfc5751.txt",
+		"/Users/asgoone/Downloads/logtestEY1.txt",
+		"/Users/asgoone/Downloads/current-export",
+		"/Users/asgoone/Downloads/Схема_НТВ-ПЛЮС ТВ_ОТТ.svg",
+		"/Users/asgoone/Dropbox/Решенные  Тестовые задания/Сапунков/Митро Римская.txt",
+		"/Users/asgoone/Dropbox/Решенные  Тестовые задания/Сапунков/Новый текстовый документ.txt",
+		"/Users/asgoone/Downloads/TEFI-229/08 - Список критичных баз данных системы голосования.txt",
+		"/Users/asgoone/Desktop/jura.txt",
+		"/Users/asgoone/Desktop/star.txt",
+		"/Users/asgoone/Desktop/export (2).csv",
+		"/Users/asgoone/Desktop/work.txt",
+		"/Users/asgoone/Downloads/logg (1)",
+		"/Users/asgoone/Desktop/rutube.ru.har",
+		"/Users/asgoone/Dropbox/Скриншоты НТВ Плюс/appntvplustv.itmsp/metadata.xml",
+		"/Users/asgoone/Dropbox/Скриншоты НТВ Плюс/ntvplustv.itmsp/metadata.xml",
+		"/Users/asgoone/Dropbox/Скриншоты НТВ Плюс/appntvplustv.itmsp/machine-local-data.xml",
+		"/Users/asgoone/appntvplustv.itmsp/metadata.xml",
+		"/Users/asgoone/Dropbox/Скриншоты ФП/Football-Plus.itmsp/machine-local-data.xml",
+		"/Users/asgoone/Dropbox/Скриншоты ФП/footballplus.itmsp/metadata.xml",
+		"/Users/asgoone/Dropbox/Скриншоты ФП/Football-Plus.itmsp/3__#$!@%!#__machine-local-data.xml",
+		"/Users/asgoone/Dropbox/Скриншоты ФП/Football-Plus.itmsp/2__#$!@%!#__machine-local-data.xml",
+		"/Users/asgoone/Dropbox/Скриншоты ФП/Football-Plus.itmsp/1__#$!@%!#__machine-local-data.xml",
+		"/Users/asgoone/Dropbox/Скриншоты ФП/Football-Plus.itmsp/metadata.xml",
+		"/Previous System/Library/Caches/Homebrew/brew-cask--git/Casks/xscope.rb",
+		"/Users/asgoone/Desktop/Untitled",
+		"/Users/asgoone/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/B52EF231-7224-4984-A2C5-FA12C4BBEF90/player_api.txt",
+		"/Users/asgoone/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/8724C39F-258D-49C7-840C-B4AB427CD103/SortUserStori.txt",
+		"/Users/asgoone/Dropbox/Я.txt",
+		"/Users/asgoone/Desktop/linc/full.txt",
+		"/Users/asgoone/Desktop/linc/itog.txt",
+		"/Users/asgoone/Dropbox/Private/семья/sima.sushkevich@gmail.com.txt",
+		"/Volumes/TRANSCEND/TEFI2015/Второй этап/2этап.txt",
+		"/Volumes/TRANSCEND/TEFI2015/Первый этап/1этап.txt",
+		"/Users/asgoone/Dropbox/UserStori.txt",
+		"/Volumes/TRANSCEND/pmp_usb.ini",
+		"/Users/asgoone/Desktop/os_x_1011.txt",
+		"/Users/asgoone/Desktop/linc/1.txt",
+		"/Users/asgoone/Desktop/1.txt",
+		"/Users/asgoone/Desktop/Аудит.Txt",
+		"/Users/asgoone/Desktop/Аудит_ТЭФИ2015/22052105/#7_Список серверов БД системы./server_bd.txt",
+		"/Users/asgoone/Documents/ffmpeg_comand.txt",
+		"/Users/asgoone/Downloads/1050.m3u8",
+		"/Users/asgoone/Desktop/linc/temp.txt",
+		"/Users/asgoone/Desktop/linc/saved1.txt",
+		"/Users/asgoone/Desktop/linc/saved2.txt",
+		"/Users/asgoone/Desktop/linc/linc90415.txt",
+		"/Users/asgoone/Desktop/linc/read",
+		"/Users/asgoone/Desktop/linc/linc90415",
+		"/Users/asgoone/Dropbox/log tefi",
+		"/Users/asgoone/Яндекс.Диск/TestVPN.bat",
+		"/Users/asgoone/Dropbox/Private/text/licnoe/Itismylife1034.txt",
+		"/Users/asgoone/Dropbox/Private/text/outher/sublime_.txt",
+		"/Users/asgoone/Downloads/план полов (1).pdf",
+		"/Users/asgoone/Desktop/linc90415",
+		"/Users/asgoone/Dropbox/Я",
+		"/Users/asgoone/Dropbox/imag_test.txt",
+		"/Users/asgoone/Desktop/linc/input.txt",
+		"/Users/asgoone/Desktop/linc/2015-03-26_saved.txt",
+		"/Users/asgoone/Desktop/linc/input0.txt",
+		"/Users/asgoone/ping_z_rutube_ru.txt",
+		"/Users/asgoone/PhpstormProjects/git_tutorial/work/hello/hello.html",
+		"/Users/asgoone/Desktop/voter/input_3.txt",
+		"/Users/asgoone/Desktop/voter/sort_all_email.txt",
+		"/Users/asgoone/Desktop/sort_voter_mail.txt",
+		"/Users/asgoone/Desktop/all_email",
+		"/Users/asgoone/Desktop/lol.txt",
+		"/Users/asgoone/Desktop/lol1.txt",
+		"/Users/asgoone/Desktop/sort_all_email.txt",
+		"/Users/asgoone/Desktop/all",
+		"/Users/asgoone/Desktop/voteremail.txt",
+		"/Users/asgoone/Desktop/linc/ishodnik.txt",
+		"/Users/asgoone/Desktop/openchrome",
+		"/Users/asgoone/Desktop/id_rsa.pub",
+		"/Users/asgoone/.bash_history",
+		"/opt/local/var/macports/sources/rsync.macports.org/release/tarballs/ports/PortIndex",
+		"/opt/local/var/macports/sources/rsync.macports.org/release/tarballs/ports/net/kismet/Portfile",
+		"/Users/asgoone/Dropbox/Working_Sharing/TEFI/DimaTefi/0106log (2).txt",
+		"/Users/asgoone/PhpstormProjects/feedtestrutube/php/feed_test",
+		"/Users/asgoone/PhpstormProjects/feedtestrutube/php/helloworld.php",
+		"/Users/asgoone/PhpstormProjects/feedtestrutube/php/feed.php",
+		"/Users/asgoone/PhpstormProjects/feedtestrutube/helloworld.php",
+		"/Users/asgoone/PhpstormProjects/test_rec_rutube/hello.php",
+		"/Users/asgoone/PhpstormProjects/test_rec_rutube/index.html",
+		"/Users/asgoone/PhpstormProjects/test_rec_rutube/checkfiles.php",
+		"/Users/asgoone/Dropbox/Private/ipoteka/ART_Room_37m2/examples.txt",
+		"/Users/asgoone/Desktop/Struktura.txt",
+		"/Users/asgoone/Downloads/Win8.1.Update1.x86-x64.Rus-Eng.12in1.Activated/readme.txt",
+		"/Users/asgoone/Downloads/sg-db.txt",
+		"/Users/asgoone/Dropbox/Working/gpm.ru/Trilan/ссылки.txt",
+		"/Users/asgoone/Dropbox/DimaTefi/номинации/7 строк",
+		"/Users/asgoone/Dropbox/DimaTefi/номинации/Лучший Актер.html",
+		"/Users/asgoone/Dropbox/DimaTefi/номинации/Лучшая актриса.html",
+		"/Users/asgoone/Dropbox/DimaTefi/номинации/Документальный проект.html",
+		"/Users/asgoone/Dropbox/DimaTefi/номинации/Телевизионный продюсер сезона.html",
+		"/Users/asgoone/Dropbox/DimaTefi/номинации/Событие телевизионного сезона.html",
+		"/Users/asgoone/Dropbox/DimaTefi/номинации/Телевизионный фильм или сериал.html",
+		"/Users/asgoone/Dropbox/DimaTefi/номинации/Ведущий развлекательной программы.html",
+		"/Users/asgoone/Dropbox/DimaTefi/номинации/Развлекательная программа.html",
+		"/Users/asgoone/Dropbox/DimaTefi/номинации/Вечернее ток-шоу.html",
+		"/Users/asgoone/Dropbox/DimaTefi/номинации/Ведущий информационных программ.html",
+		"/Users/asgoone/Dropbox/DimaTefi/номинации/Репортер или оператор репортажа.html",
+		"/Users/asgoone/Dropbox/DimaTefi/номинации/Информационная программа.html",
+		"/Users/asgoone/Dropbox/DimaTefi/works.txt",
+		"/Users/asgoone/Dropbox/Private/text/licnoe/gpb_zp.txt",
+		"/Users/asgoone/Dropbox/Private/text/licnoe/gpb.txt",
+		"/Users/asgoone/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/144AFBAA-6514-4458-A8B2-9C66F0820433/gen",
+		"/Users/asgoone/Dropbox/DimaTefi/Верстка_жюри.txt",
+		"/Users/asgoone/Dropbox/Private/text/dostup/rabota_log_pass.txt",
+		"/Users/asgoone/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/07D2DED1-8CA4-4AF7-9D27-E34BE9A992B1/gen",
+		"/Users/asgoone/Dropbox/DimaTefi/Текст_на_странице_жюри.txt",
+		"/Users/asgoone/Desktop/письмо.txt",
+		"/Users/asgoone/Dropbox/Private/text/dostup/0893485371.txt"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/asgoone/dev/github-asgoone/go-tg-bot/config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/asgoone/dev/github-asgoone/go-tg-bot/go-tg-bot.go",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "go-tg-bot.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
