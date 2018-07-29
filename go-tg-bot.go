@@ -14,7 +14,8 @@ type Config struct {
 
 func main() {
 
-	file, _ := os.Open("config.json"  decoder := json.NewDecoder(file)
+	file, _ := os.Open("config.json")
+		decoder := json.NewDecoder(file)
 		configuration := Config{}
 		err := decoder.Decode(&configuration)
 		if err != nil {
